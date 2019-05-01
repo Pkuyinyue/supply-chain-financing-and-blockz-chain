@@ -1,5 +1,7 @@
-#<Supply-chain-financing-and-blockz-chain>
+#Supply-chain-financing-and-blockz-chain
+==========================================
 ##<The current state of supply-chain financing>
+  ----------------------------------------------
 ###<The main form of supply-chain financing>
 Supply-chain financing comprises trade-financing, which includes three traditional forms of supply-chain financing: accounts receivable financing, inventory financing, prepayment financing, and emerging supply-chain financing forms – strategies relationship financing.
 ![Alt Text](https://github.com/Pkuyinyue/supply-chain-financing-and-blockz-chain/blob/master/1.Main%20form%20of%20supply%20chain.png)
