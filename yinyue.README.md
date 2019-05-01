@@ -55,7 +55,9 @@ At present, the intelligent contract development platforms mainly include: Block
 **##Difficulty during application of blockchain on supplychain financing **
 
 1.**Difficulty in technology aspect
-  1. **Privacy problem**It is worthy to pay attention to privacy problem on the chain. Ttransaction and credit information consists of sensitive business information, therefore, credit platform put forward higher demands on data privacy, data saving technology must have strong anti-interception, anti-crack capability. Besides, public chain of block-chain, every participant will get complete data backup, transaction data is public and transparent. In most scenarios, business institutions are reluctant to share competitors account and transaction information, pivotal assets and business secret.
-  1. **Data storage capability** Because data on block-chain will only be additionally supplemented, instead of being removed, data will increase not decease. With time passed away, demand for size of data storage will continuously increase, especially on processing enterprise data.
+  1. **Privacy problem**
+It is worthy to pay attention to privacy problem on the chain. Ttransaction and credit information consists of sensitive business information, therefore, credit platform put forward higher demands on data privacy, data saving technology must have strong anti-interception, anti-crack capability. Besides, public chain of block-chain, every participant will get complete data backup, transaction data is public and transparent. In most scenarios, business institutions are reluctant to share competitors account and transaction information, pivotal assets and business secret.
+  1. **Data storage capability** 
+Because data on block-chain will only be additionally supplemented, instead of being removed, data will increase not decease. With time passed away, demand for size of data storage will continuously increase, especially on processing enterprise data.
 1. **Difficulty in promotion aspect
-  1. ** Although it is innovative for block-chain to be applicated in supply-chain financing, it is obstructive to 
+  1. Although it is innovative for block-chain to be applicated in supply-chain financing, it is obstructive to 
