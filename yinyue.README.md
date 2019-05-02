@@ -8,7 +8,7 @@ Supply-chain financing comprises trade-financing, which includes three tradition
 ![Alt Text](https://github.com/Pkuyinyue/supply-chain-financing-and-blockz-chain/blob/master/1.Main%20form%20of%20supply%20chain.png)
 **ARIF（accounts receivable and inventory financing）**  
 ARIF is one kind of commercial loans based on asset-control. ARIF can accelerate the cycling speed of capital occupation from inventory, lowering the cost of capital occupation.   
-**Prepayment financing** refers to credit guarantee provided by the third-party logistics enterprise on the premise of the upstream enterprise's commitment to repurchase, and the SME apply for the pledge loan by the financial institutions alleviate the prepayment pressure. Meanwhile, financial institutions control the financing of their delivery rights.
+**Prepayment financing** refers to credit guarantee provided by the third-party logistics enterprise on the premise of the upstream enterprise's commitment to repurchase, and the SME apply for the pledge loan by the financial institutions alleviate the prepayment pressure. Meanwhile, financial institutions control the financing of their delivery rights.  
 **Strategic relationship financing** requires high levels of trust from both supply and demand side of funds. This feature differentiates original enterprise financing.  
 ##The basis for the development of supply-chain financing
 The scale of underlying liquid assets is enough, but supply capacity limits industry size.
