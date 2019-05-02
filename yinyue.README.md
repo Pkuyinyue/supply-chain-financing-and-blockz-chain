@@ -1,7 +1,10 @@
 PHBS_BlockChain_2018  
+
 #**Topic：Application of blockchain in supply chain finance**
 ==========================================
 _Yue Yin 1701213137_  
+
+**Introduction**: Drived by huge demands, supply chain finance undergoes steady growth in China. However, due to some pain points naturally, supply chain finance is faced with difficulties in practice. The characteristic of blockchain can provide solutions for such pain points of supply chain finance.  
 
 **1.The current state of supply chain finance**
   ----------------------------------------------
