@@ -31,7 +31,7 @@ _Source: National Bureau of Statistics, Wind_
 According to the National Bureau of Statistics, it is estimated that the market size of China's supply chain finance will maintain steady growth. The report shows that from 2015 to 2022, the growth rate of the supply chain financial industry will stabilize at around 5%. By 2020, industry scale of supply chain finance in China will reach 2.4 trillion yuan.  
 
 _Figure 4. Industry Scale of Supply Chain Finance_
-![Alt Text](https://github.com/Pkuyinyue/supply-chain-financing-and-blockz-chain/blob/master/4.%20Industry%20scale.png)
+![Alt Text](https://github.com/Pkuyinyue/supply-chain-financing-and-blockz-chain/blob/master/4.%20Industry%20scale.png)  
 _Source: National Bureau of Statistics_  
 
 ##**Pain point in supply-chain financing**  
