@@ -1,10 +1,11 @@
-#**Application of blockchain in supply chain finance**
+PHBS_BlockChain_2018
+#**Topic：Application of blockchain in supply chain finance**
 ==========================================
 _Yue Yin 1701213137_  
 
-##**The current state of supply chain finance**
+**1.The current state of supply chain finance**
   ----------------------------------------------
-###**The main form of supply chain finance**  
+**1.1 The main form of supply chain finance**  
 
 Supply chain finance (SCF) comprises trade-financing, which includes three traditional forms of SCF: accounts receivable financing, inventory financing, prepayment financing, and emerging SCF forms – strategies relationship financing.  
 
@@ -14,7 +15,7 @@ _Figure 1. Main Form of Supply Chain Finance_
 * **Prepayment financing** refers to credit guarantee provided by the third-party logistics enterprise on the premise of the upstream enterprise's commitment to repurchase, and the SME apply for the pledge loan by the financial institutions alleviate the prepayment pressure. Meanwhile, financial institutions control the financing of their delivery rights.  
 * **Strategic relationship financing** requires high levels of trust from both supply and demand side of funds. This feature differentiates original enterprise financing.  
 
-###**The basis for the development of Supply Chain Finance**  
+**1.2 The basis for the development of Supply Chain Finance**  
 The scale of underlying liquid assets is enough, but supply capacity limits industry size.  
 The main forms of SCF products are based on accounts receivable and (future) inventories. In China, the scale of industrial enterprises’ accounts receivable and inventory have already reached a certain volume, which laid the foundation for the corresponding SCF. However, the scale of SCF is far less than the basic accounts receivable and inventory financing's scale.  
 
@@ -28,14 +29,14 @@ _Figure 3. China SME Loan Demand Index and Bank Loan Demand Index_
 ![Alt Text](https://github.com/Pkuyinyue/supply-chain-financing-and-blockz-chain/blob/master/3.%20SME%20Index.png)  
 _Source: National Bureau of Statistics, Wind_  
 
-###**Industry scale of supply chain finance**  
+**1.3 Industry scale of supply chain finance**  
 According to the National Bureau of Statistics, it is estimated that the market size of China's supply chain finance will maintain steady growth. The report shows that from 2015 to 2022, the growth rate of the supply chain financial industry will stabilize at around 5%. By 2020, industry scale of supply chain finance in China will reach 2.4 trillion yuan.  
 
 _Figure 4. Industry Scale of Supply Chain Finance_
 ![Alt Text](https://github.com/Pkuyinyue/supply-chain-financing-and-blockz-chain/blob/master/4.%20Industry%20scale.png)  
 _Source: National Bureau of Statistics_  
 
-##**Pain points in supply chain finance**
+**2. Pain points in supply chain finance**
 ----------------------------------------------------------------------------------  
 * **Difficult credit transfers and narrow service scope**
 Since it is difficult for core enterprises to transfer credit to upstream and downstream enterprises, service targets are limited to large enterprises and first-tier suppliers. Otherwise, second-tier suppliers (mostly SME), which really need funds still face problems such as obstructs in financing, high financing costs and inflexible loan terms.  
@@ -43,7 +44,7 @@ Since it is difficult for core enterprises to transfer credit to upstream and do
 Traditional financial institutions such as banks face a single downstream enterprise, and the cost of solving information symmetry and mastering corporate credit is high:
 The real trade background check, the past link is completed manually by manually checking various invoice contracts. Due to the manual operation, there are disadvantages of high error rate and high fraud risk while being inefficient.  
 
-**##Application of Block chain in supply chain finance**  
+**3. Application of Block chain in supply chain finance**  
 ---------------------------------------------------------------------------------------------
 The pain point of traditional supply chain finance is indeed the suitable solution scene applying blockchain. Blockchain is a fusion technology of point-to-point communication, digital encryption, distributed ledger, multi-party consensus algorithm, etc. It is non-tamperable and data-traceable, very suitable for multi-participating supply chain financial business scenarios. Through blockchain technology, data can be trusted, mutual recognition and circulation, core enterprise credits can be transmitted, performance risks can be prevented, operational efficiency can be improved, and business costs can be reduced.  
 
@@ -66,7 +67,7 @@ SME Financing|Convenient and cheap in financing|Costly and difficult in financin
 
 In summary, blockchain can transfer credit of core enterprises to multi-level suppliers of the entire supply chain, improve the financing efficiency of the entire chain, enrich the business scenarios of financial institutions, and thus improve the operational efficiency of funds in the entire supply chain.  
 
-**How blockchain strengthens supply chain finance**  
+**4. How blockchain strengthens supply chain finance**  
 -----------------------------------------------------------------
 As mentioned above, the pain points of supply chain finance include how to ensure the authenticity of transactions, resolve high operating costs, and improve market coverage. The development of supply chain finance just catches up with the development of blockchain, and the combination has become one of the hotspots of blockchain’ application.  
 
@@ -95,7 +96,7 @@ In general, the upstream and downstream of a core enterprise gathers to integrat
 Smart contracts provide automated tools for supply chain finance's business execution, relying on efficient, accurate, and automated execution of contracts. Relieve the difficulty of contract execution in reality. Taking property financing as an example, the completion of delivery can not only send payment instructions to the bank through smart contracts, but also automatically complete fund payment, liquidation and financial reconciliation, improve business operation efficiency, and reduce potential risks and losses caused by human operation to a certain extent. 
 At present, the intelligent contract development platforms mainly include: Blockchain Smart Contract System (IBM) Corda Smart Contract Platform (R3 Alliance), Superbook Hyperledger (Linux), Ethereum Smart Contract Platform.
 
-**## Difficulty during application of blockchain on supply chain finance**
+**5. Difficulty during application of blockchain on supply chain finance**
 ---------------------------------------------------------------------------------------------------
 
 * **Difficulty in technology aspect**
@@ -108,21 +109,21 @@ Because data on block-chain will only be additionally supplemented, instead of b
   * Although it is innovative for block-chain to be applicated in supply-chain financing, it is obstructive to actually apply it in practice. This is because the addition of the block-chain system requires transformation of original business system. At initial stage, it may cost more. The customer needs a section for the new technology application. During the adaptation period, the market size is limited in the short term, and the market potential needs further exploration.  
 The block-chain is promising in solving the financing difficulties of small and micro enterprises, but it also faces many problems and challenges. It not only needs technical, legal, and regulatory support, but also needs to include the government, supply chain participants and technology. Stakeholders, such as providers, participate in and promote the construction of the platform, the establishment of block-chain standards, the formulation of relevant laws and policies, and the sharing of information, so that the application of block-chain in supply chain finance is both risk-controllable. It has reached the goal of supporting the real economy and serving small and medium-sized enterprises, and has achieved good social and economic benefits.
 
-**## Policy recommendations during application**  
+**6. Policy recommendations during application**  
 --------------------------------------------------------------------------------------------
-**1.Strengthen technological innovation and build up a sound industrial ecosystem**  
+**6.1 Strengthen technological innovation and build up a sound industrial ecosystem**  
 
 Accelerate the innovation of key technologies of block-chain such as consensus mechanism, cryptography algorithm, cross-chain technology, and privacy protection zone, carry out product R&D and industry standard testing, and build up an ecosystem of software and hardware synergistic development. Actively cooperate with universities and research institutes to build supply chain financial research centers or laboratories, promote the application of new technologies and new models of supply chain finance, and promote the digitization and intelligence of the entire industry. The core enterprises will play a driving role, strengthen the coordination and integration of commercial banks, block-chain platform enterprises, and supply chain upstream and downstream enterprises, innovate supply chain financial business models, optimize supply chain capital flows, build a sound industrial ecosystem, and promote industrial cost reduction. Efficiency, energy conservation and environmental protection, green development and innovation transformation.  
 
-**2. Standardize the service of the real economy and promote the healthy development of the supply chain market**  
+**6.2 Standardize the service of the real economy and promote the healthy development of the supply chain market**  
 
 Promote the innovative supply chain financial service model, and play the role of financial institutions such as bill exchanges, financing service platforms and movable property financing unified registration and publicity systems, actively and steadily carry out supply chain financial services on the basis of effective prevention of risks, and provide funds for the real economy. The safe channel provides relatively low-cost, efficient and fast financial services for qualified small and medium-sized enterprises. Promote system interconnection and data sharing between the government, banks and core enterprises, strengthen supply chain financial supervision, combat illegal trade such as financing trade, malicious repeated pledge, malicious transfer of goods, establish a disciplinary mechanism for untrustworthy enterprises, and promote supply chain The financial market operates in a regulated manner to ensure that it flows to the real economy.  
 
-**3. Actively cultivate open source ecology and enhance industrial influence**  
+**6.3 Actively cultivate open source ecology and enhance industrial influence**  
 
 Give full play to the “race-taking advantage” of industry alliances in group standards and industry standards, and implement problems such as language inconsistency in blockchains and inconsistent smart contract standards, and try to test alliance standards first, guide industrial cluster optimization and upgrade, and improve enterprise competitiveness. Actively cultivate the blockchain open source ecology with Chinese characteristics, build a blockchain open source community, bring together domestic elites and global wisdom, improve China's code contribution in blockchain open source projects, and enhance China's voice in the blockchain field. Influence. Establish a public service platform for R&D and industrialization of blockchain technology, improve the energy level and level of product R&D and industrialization, build a good pattern of “double innovation”, and encourage the deep integration of blockchain and “Internet+” to create a new economic growth pole. Actively guide enterprises to carry out patent layout, prevent patent "traps", protect intellectual property rights, safeguard the legitimate rights and interests of enterprises, enhance the international competitiveness of enterprises, and accelerate the realization of "going out" of enterprises.  
 
-**4. Improve the regulatory compliance mechanism and promote the development of industry**  
+**6.4 Improve the regulatory compliance mechanism and promote the development of industry**  
 
 Follow the law of technological development and assign a systematic layout from the policy level. In-depth study of the impact of block-chain on personal information protection, data cross-border flow, etc., explore the regulatory issues of block-chain in the underlying core technology, middle-level application logic and upper-level information monitoring. Actively promote the information disclosure of participating entities in the block-chain system, build a compliance review and audit mechanism for smart contracts, and promote industry self-discipline. Simultaneously carry out research on relevant policies and laws and regulations on block-chain, explore the development of supervision mechanisms and certification systems for block-chain technology and applications, and create a good environment for the healthy development of the industry. Accelerate the improvement of relevant legal planning for blockchains, and incorporate blockchain technology into appropriate regulatory frameworks through legislation, strengthen market supervision in industries such as finance, and prevent systemic risks. As far as possible, strike a balance between maintaining the interests of system participants and maintaining a broader range of social interests, and avoiding a solidified structure that hinders technological innovation.
 
