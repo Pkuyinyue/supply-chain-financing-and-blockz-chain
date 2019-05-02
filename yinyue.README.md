@@ -51,6 +51,7 @@ The pain point of traditional supply chain finance is indeed the suitable soluti
 1. Achieve financing cost efficiency  
 
 Figure 5. **Blockchain supplychain financing V.S. Traditional supplychain financing**  
+
 Type|Block-chain supply-chain financing |Traditional supplychain financing  
 ----|-----------------------------------|---------------------------------  
 Information flow|smooth|Obstructive  
