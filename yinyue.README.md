@@ -33,7 +33,7 @@ _Figure 4. Industry Scale of Supply Chain Finance_
 ![Alt Text](https://github.com/Pkuyinyue/supply-chain-financing-and-blockz-chain/blob/master/4.%20Industry%20scale.png)  
 _Source: National Bureau of Statistics_  
 
-##**Pain point in supply-chain financing**
+##**Pain points in supply-chain financing**
 ----------------------------------------------------------------------------------  
 * **Difficult credit transfers and narrow service scope**
 Since it is difficult for core enterprises to transfer credit to upstream and downstream enterprises, service targets are limited to large enterprises and first-tier suppliers. Otherwise, second-tier suppliers (mostly SME), which really need funds still face problems such as obstructs in financing, high financing costs and inflexible loan terms.  
@@ -44,12 +44,13 @@ The real trade background check, the past link is completed manually by manually
 **##Application of Block chain in supply-chain financing**  
 ---------------------------------------------------------------------------------------------
 The pain point of traditional supply chain finance is indeed the suitable solution scene applying blockchain. Blockchain is a fusion technology of point-to-point communication, digital encryption, distributed ledger, multi-party consensus algorithm, etc. It is non-tamperable and data-traceable, very suitable for multi-participating supply chain financial business scenarios. Through blockchain technology, data can be trusted, mutual recognition and circulation, core enterprise credits can be transmitted, performance risks can be prevented, operational efficiency can be improved, and business costs can be reduced.  
+
 **The benefits and improvements of blockchain for supply chain finance business are as follows:**
-1. Difficult to solve the problem of information transmission  
-1. Transfer the credit of the core enterprise  
-1. Enrich trustworthy trade scenes  
-1. Apply smart contracts to prevent compliance risk  
-1. Achieve financing cost efficiency  
+  * Difficult to solve the problem of information transmission  
+  * Transfer the credit of the core enterprise  
+  * Enrich trustworthy trade scenes  
+  * Apply smart contracts to prevent compliance risk  
+  * Achieve financing cost efficiency  
 
 Figure 5. **Blockchain supplychain financing V.S. Traditional supplychain financing**  
 
@@ -91,7 +92,7 @@ In general, the upstream and downstream of a core enterprise gathers to integrat
 Smart contracts provide automated tools for supply chain finance's business execution, relying on efficient, accurate, and automated execution of contracts. Relieve the difficulty of contract execution in reality. Taking property financing as an example, the completion of delivery can not only send payment instructions to the bank through smart contracts, but also automatically complete fund payment, liquidation and financial reconciliation, improve business operation efficiency, and reduce potential risks and losses caused by human operation to a certain extent. 
 At present, the intelligent contract development platforms mainly include: Blockchain Smart Contract System (IBM) Corda Smart Contract Platform (R3 Alliance), Superbook Hyperledger (Linux), Ethereum Smart Contract Platform.
 
-**##Difficulty during application of blockchain on supply chain finance **
+**## Difficulty during application of blockchain on supply chain finance**
 
 * **Difficulty in technology aspect**
   * **Privacy problem**
