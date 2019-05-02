@@ -134,7 +134,7 @@ Follow the law of technological development and assign a systematic layout from 
 --------------------------------------------------------------------------------------------------------------------
 [1]Lamoureux, M. (2007) A Supply Chain Finance Prime. Supply Chain Finance, 4.  
 
-[2][]（https://www.iyiou.com/p/85819.html)  
+[2][How Fintech enables supply chain finance?]（https://www.iyiou.com/p/85819.html)  
 
 [3]Yang Shaohui, From bank's business model to do a research on supplychain finance[J]logistics technology, 2006, (10):179-182    
 
