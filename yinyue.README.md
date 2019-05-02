@@ -1,4 +1,4 @@
-#**Supply Chain Finance and blockchain**
+#**Application of blockchain in supply chain finance**
 ==========================================
 _Yue Yin 1701213137_  
 
