@@ -13,7 +13,7 @@ ARIF is one kind of commercial loans based on asset-control. ARIF can accelerate
 **Prepayment financing** refers to credit guarantee provided by the third-party logistics enterprise on the premise of the upstream enterprise's commitment to repurchase, and the SME apply for the pledge loan by the financial institutions alleviate the prepayment pressure. Meanwhile, financial institutions control the financing of their delivery rights.  
 **Strategic relationship financing** requires high levels of trust from both supply and demand side of funds. This feature differentiates original enterprise financing.  
 
-##The basis for the development of SCF
+##**The basis for the development of Supply Chain Finance**
 The scale of underlying liquid assets is enough, but supply capacity limits industry size.  
 The main forms of SCF products are based on accounts receivable and (future) inventories. In China, the scale of industrial enterprises’ accounts receivable and inventory have already reached a certain volume, which laid the foundation for the corresponding SCF. However, the scale of SCF is far less than the basic accounts receivable and inventory financing's scale.  
 
@@ -43,14 +43,14 @@ The real trade background check, the past link is completed manually by manually
 
 **##Application of Block chain in supply-chain financing**  
 The pain point of traditional supply chain finance is indeed the suitable solution scene applying blockchain. Blockchain is a fusion technology of point-to-point communication, digital encryption, distributed ledger, multi-party consensus algorithm, etc. It is non-tamperable and data-traceable, very suitable for multi-participating supply chain financial business scenarios. Through blockchain technology, data can be trusted, mutual recognition and circulation, core enterprise credits can be transmitted, performance risks can be prevented, operational efficiency can be improved, and business costs can be reduced.  
-The benefits and improvements of blockchain for supply chain finance business are as follows:
+**The benefits and improvements of blockchain for supply chain finance business are as follows:**
 1. Difficult to solve the problem of information transmission  
 1. Transfer the credit of the core enterprise  
 1. Enrich trustworthy trade scenes  
 1. Apply smart contracts to prevent compliance risk  
 1. Achieve financing cost efficiency  
-Figure 5. ***Blockchain supplychain financing V.S. Traditional supplychain financing  
 
+Figure 5. **Blockchain supplychain financing V.S. Traditional supplychain financing**  
 Type|Block-chain supply-chain financing |Traditional supplychain financing
 -----|----------------------------------|---------------------------------
 Information flow|smooth|Obstructive 
@@ -58,6 +58,7 @@ Credit transfer|Can arrive at multi-level supplier|Limited to first-level suppli
 Business Scene|Full-chain penetration|Core enterprise and 1st grade supplier
 Payment Control|controllable|uncontrollable
 SME Financing|Convenient and cheap in financing|Costly and difficult in financing  
+
 In summary, blockchain can transfer credit of core enterprises to multi-level suppliers of the entire supply chain, improve the financing efficiency of the entire chain, enrich the business scenarios of financial institutions, and thus improve the operational efficiency of funds in the entire supply chain.   
 As mentioned above, the pain points of supply chain finance include how to ensure the authenticity of transactions, resolve high operating costs, and improve market coverage. The development of supply chain finance just catches up with the development of blockchain, and the combination has become one of the hotspots of blockchain’ application.  
 The application of blockchain in supply chain finance is mainly based on the following aspects: transaction confirmation based on encrypted data, proof of authenticity based on deposit certificate, credit dismantling based on shared ledger, and contract execution based on smart contract. In the end, it can meet the mutual verification and matching of multiple sources of information in the supply chain, and solve the painful point of mistrust of funds to transaction data.  
@@ -98,6 +99,6 @@ Give full play to the “race-taking advantage” of industry alliances in group
 Follow the law of technological development and do a systematic layout from the policy level. In-depth study of the impact of block-chain on personal information protection, data cross-border flow, etc., explore the regulatory issues of block-chain in the underlying core technology, middle-level application logic and upper-level information monitoring. Actively promote the information disclosure of participating entities in the block-chain system, build a compliance review and audit mechanism for smart contracts, and promote industry self-discipline. Simultaneously carry out research on relevant policies and laws and regulations on block-chain, explore the development of supervision mechanisms and certification systems for block-chain technology and applications, and create a good environment for the healthy development of the industry. Accelerate the improvement of relevant legal planning for blockchains, and incorporate blockchain technology into appropriate regulatory frameworks through legislation, strengthen market supervision in industries such as finance, and prevent systemic risks. As far as possible, strike a balance between maintaining the interests of system participants and maintaining a broader range of social interests, and avoiding a solidified structure that hinders technological innovation.
 
 ##**References**
-Michael Lamoureux, A Supply Chain Finance Prime, [Github] (http:// www. Esourcingwiki.corn/index.php/ A_Supply_Chain——Financejrimer,2008.)
-[Github]（http://www.jjckb.cn/2019-04/09/c_137962797.html）
+Michael Lamoureux, A Supply Chain Finance Prime, [Github] (http:// www. Esourcingwiki.corn/index.php/ A_Supply_Chain——Financejrimer,2008.)  
+[Github]（http://www.jjckb.cn/2019-04/09/c_137962797.html）  
 Yang Shaohui,
