@@ -51,12 +51,12 @@ The pain point of traditional supply chain finance is indeed the suitable soluti
 1. Achieve financing cost efficiency  
 
 Figure 5. **Blockchain supplychain financing V.S. Traditional supplychain financing**  
-Type|Block-chain supply-chain financing |Traditional supplychain financing
-----|-----------------------------------|---------------------------------
-Information flow|smooth|Obstructive 
-Credit transfer|Can arrive at multi-level supplier|Limited to first-level supplier
-Business Scene|Full-chain penetration|Core enterprise and 1st grade supplier
-Payment Control|controllable|uncontrollable
+Type|Block-chain supply-chain financing |Traditional supplychain financing  
+----|-----------------------------------|---------------------------------  
+Information flow|smooth|Obstructive  
+Credit transfer|Can arrive at multi-level supplier|Limited to first-level supplier  
+Business Scene|Full-chain penetration|Core enterprise and 1st grade supplier  
+Payment Control|controllable|uncontrollable  
 SME Financing|Convenient and cheap in financing|Costly and difficult in financing  
 
 In summary, blockchain can transfer credit of core enterprises to multi-level suppliers of the entire supply chain, improve the financing efficiency of the entire chain, enrich the business scenarios of financial institutions, and thus improve the operational efficiency of funds in the entire supply chain.   
