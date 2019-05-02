@@ -53,8 +53,8 @@ The pain point of traditional supply chain finance is indeed the suitable soluti
   * Enrich trustworthy trade scenes  
   * Apply smart contracts to prevent compliance risk  
   * Achieve financing cost efficiency  
-
-Figure 5. **Blockchain supply chain finance V.S. Traditional supply chain finance**  
+  
+ _Figure 5.Blockchain supply chain finance V.S. Traditional supply chain finance**_  
 
 Type|Block-chain supply-chain finance |Traditional supplychain finance  
 ----|-----------------------------------|---------------------------------  
@@ -128,7 +128,7 @@ Follow the law of technological development and assign a systematic layout from 
 
 ##**References**  
 --------------------------------------------------------------------------------------------------------------------
-[1]Michael Lamoureux, A Supply Chain Finance Prime, [Github] (http:// www. Esourcingwiki.corn/index.php/ A_Supply_Chain——Financejrimer,2008.)  
+[1]Michael Lamoureux, A Supply Chain Finance Prime, [Github] (http://www.Esourcingwiki.corn/index.php/ A_Supply_Chain——Financejrimer,2008.)  
 [2][Github]（http://www.jjckb.cn/2019-04/09/c_137962797.html）  
 [3]Yang Shaohui, From bank's business model to do a research on supplychain finance[J]logistics technology, 2006, (10):179-182  
 [4]Songhua. Supply Chain Finance (Second Edition)
