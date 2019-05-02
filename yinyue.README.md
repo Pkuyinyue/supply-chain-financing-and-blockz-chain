@@ -1,4 +1,4 @@
-PHBS_BlockChain_2018
+PHBS_BlockChain_2018  
 #**Topic：Application of blockchain in supply chain finance**
 ==========================================
 _Yue Yin 1701213137_  
@@ -129,7 +129,10 @@ Follow the law of technological development and assign a systematic layout from 
 
 ##**References**  
 --------------------------------------------------------------------------------------------------------------------
-[1]Michael Lamoureux, A Supply Chain Finance Prime, [Github] (http://www.Esourcingwiki.corn/index.php/ A_Supply_Chain——Financejrimer,2008.)  
-[2][Github]（http://www.jjckb.cn/2019-04/09/c_137962797.html）  
-[3]Yang Shaohui, From bank's business model to do a research on supplychain finance[J]logistics technology, 2006, (10):179-182  
+[1]Lamoureux, M. (2007) A Supply Chain Finance Prime. Supply Chain Finance, 4.  
+
+[2][]（https://www.iyiou.com/p/85819.html)  
+
+[3]Yang Shaohui, From bank's business model to do a research on supplychain finance[J]logistics technology, 2006, (10):179-182    
+
 [4]Songhua. Supply Chain Finance (Second Edition)
