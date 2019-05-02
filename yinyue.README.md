@@ -13,7 +13,7 @@ ARIF is one kind of commercial loans based on asset-control. ARIF can accelerate
 **Prepayment financing** refers to credit guarantee provided by the third-party logistics enterprise on the premise of the upstream enterprise's commitment to repurchase, and the SME apply for the pledge loan by the financial institutions alleviate the prepayment pressure. Meanwhile, financial institutions control the financing of their delivery rights.  
 **Strategic relationship financing** requires high levels of trust from both supply and demand side of funds. This feature differentiates original enterprise financing.  
 
-##**The basis for the development of Supply Chain Finance**
+##**The basis for the development of Supply Chain Finance**  
 The scale of underlying liquid assets is enough, but supply capacity limits industry size.  
 The main forms of SCF products are based on accounts receivable and (future) inventories. In China, the scale of industrial enterprises’ accounts receivable and inventory have already reached a certain volume, which laid the foundation for the corresponding SCF. However, the scale of SCF is far less than the basic accounts receivable and inventory financing's scale.  
 
@@ -52,7 +52,7 @@ The pain point of traditional supply chain finance is indeed the suitable soluti
 
 Figure 5. **Blockchain supplychain financing V.S. Traditional supplychain financing**  
 Type|Block-chain supply-chain financing |Traditional supplychain financing
------|----------------------------------|---------------------------------
+----|-----------------------------------|---------------------------------
 Information flow|smooth|Obstructive 
 Credit transfer|Can arrive at multi-level supplier|Limited to first-level supplier
 Business Scene|Full-chain penetration|Core enterprise and 1st grade supplier
