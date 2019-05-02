@@ -1,5 +1,7 @@
 #**Supply Chain Finance and blockchain**
 ==========================================
+_Yue Yin 1701213137_  
+
 ##**The current state of supply chain finance**
   ----------------------------------------------
 ###**The main form of supply chain finance**  
@@ -126,6 +128,7 @@ Follow the law of technological development and assign a systematic layout from 
 
 ##**References**  
 --------------------------------------------------------------------------------------------------------------------
-* Michael Lamoureux, A Supply Chain Finance Prime, [Github] (http:// www. Esourcingwiki.corn/index.php/ A_Supply_Chain——Financejrimer,2008.)  
-* [Github]（http://www.jjckb.cn/2019-04/09/c_137962797.html）  
-* Yang Shaohui, From bank's business model to do a research on supplychain finance[J]logistics technology, 2006, (10):179-182  * Songhua. Supply Chain Finance (Second Edition)
+[1]Michael Lamoureux, A Supply Chain Finance Prime, [Github] (http:// www. Esourcingwiki.corn/index.php/ A_Supply_Chain——Financejrimer,2008.)  
+[2][Github]（http://www.jjckb.cn/2019-04/09/c_137962797.html）  
+[3]Yang Shaohui, From bank's business model to do a research on supplychain finance[J]logistics technology, 2006, (10):179-182  
+[4]Songhua. Supply Chain Finance (Second Edition)
